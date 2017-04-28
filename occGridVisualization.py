@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-from mpl_toolkits.mplot3d import Axes3D
-import matplotlib.pyplot as plt
 from mayavi import mlab
 
 figure = None
