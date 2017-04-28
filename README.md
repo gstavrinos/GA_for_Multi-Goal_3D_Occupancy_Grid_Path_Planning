@@ -6,6 +6,11 @@ Run in a terminal:
 python ga.py
 ```
 
+### Dependencies:
+
+* numpy
+* mayavi
+
 ### Extras:
 
  * You can experiment with the map generator to create different kind of maps.
